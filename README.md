@@ -1,2 +1,2 @@
 # momentum
-클론 코딩
+nomad momentum 클론 코딩
